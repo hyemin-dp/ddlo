@@ -1,6 +1,6 @@
-# kids-schole-react-app
+# ddlo-react-app
 
-디피니션 키즈스콜레 리액트 프로젝트.
+디디로 웹사이트
 
 ## Run
 
